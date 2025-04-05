@@ -1,0 +1,1 @@
+Bank Account Management System (using Java) from which you can add new account details, you can deposit and withdraw the amount, and search a particular person's account details and the whole bank employee account details. There, you can search via account number.
